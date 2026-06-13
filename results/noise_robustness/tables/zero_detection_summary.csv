@@ -1,0 +1,5 @@
+Condition,Sigma,N Windows,Zero Detection Windows,Zero Detection Rate
+Clean σ=0,0,495,0,0.0
+Noise σ=10,10,495,22,0.0444
+Noise σ=20,20,495,12,0.0242
+Noise σ=30,30,495,0,0.0

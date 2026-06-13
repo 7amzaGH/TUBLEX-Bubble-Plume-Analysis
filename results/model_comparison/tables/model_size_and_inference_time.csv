@@ -1,0 +1,3 @@
+Model,Model Size MB,Avg Batch Time s,Avg Time per Window ms
+Random Forest,0.369439,0.041656,0.084154
+XGBoost,0.2026,0.003298,0.006662

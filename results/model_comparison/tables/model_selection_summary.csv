@@ -1,0 +1,5 @@
+Criterion,Selected Model
+Best hold-out F1,Random Forest
+Best hold-out ROC-AUC,Random Forest
+Best hold-out PR-AUC,Random Forest
+Simpler configuration / baseline interpretability,Random Forest

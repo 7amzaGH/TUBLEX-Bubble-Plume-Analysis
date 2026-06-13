@@ -1,0 +1,12 @@
+Feature,Importance
+std_bubble_count,0.273597
+temporal_variance,0.267091
+mean_vertical_chain,0.163883
+prev3_std_bubble_count,0.098817
+prev3_mean_vertical_chain,0.081673
+prev3_continuity_ratio,0.029614
+continuity_ratio,0.023094
+max_bubble_count,0.021936
+mean_bubble_count,0.019077
+leak_evolution,0.015151
+prev3_mean_bubble_count,0.006068

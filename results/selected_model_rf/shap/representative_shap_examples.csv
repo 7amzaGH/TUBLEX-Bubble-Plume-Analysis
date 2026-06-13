@@ -1,0 +1,3 @@
+sample_id,source_video_id,window_id,condition_id,data_group,g,psi,label,predicted_label,leak_probability,prediction_type
+L_G12_PSI05_V001_W0000,L_G12_PSI05_V001,0,G12_PSI05,leak,12,5,0,0,0.0,TN
+L_G12_PSI05_V001_W0006,L_G12_PSI05_V001,6,G12_PSI05,leak,12,5,1,1,1.0,TP

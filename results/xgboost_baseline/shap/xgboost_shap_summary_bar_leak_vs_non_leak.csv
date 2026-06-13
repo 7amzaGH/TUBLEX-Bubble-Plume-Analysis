@@ -1,0 +1,12 @@
+Feature,Mean |SHAP| Non-Leak,Mean |SHAP| Leak,Mean |SHAP| Overall
+std_bubble_count,3.023534,3.353737,3.188635
+mean_vertical_chain,1.500746,1.636618,1.568682
+prev3_std_bubble_count,0.690149,0.6573,0.673724
+prev3_mean_vertical_chain,0.45982,0.763229,0.611525
+temporal_variance,0.412071,0.438504,0.425287
+prev3_mean_bubble_count,0.274233,0.432738,0.353486
+continuity_ratio,0.291484,0.282469,0.286976
+mean_bubble_count,0.317226,0.166995,0.24211
+prev3_continuity_ratio,0.341735,0.114822,0.228279
+max_bubble_count,0.28377,0.033741,0.158756
+leak_evolution,0.181491,0.089886,0.135689

@@ -1,0 +1,9 @@
+Condition,Model,Accuracy,Precision,Recall,F1,ROC-AUC,PR-AUC,Zero Detection Windows
+Clean σ=0,Random Forest,0.9939,0.996,0.9921,0.9941,0.9999,0.9999,0
+Clean σ=0,XGBoost,0.9859,0.996,0.9763,0.986,0.9998,0.9998,0
+Noise σ=10,Random Forest,0.9859,1.0,0.9723,0.986,0.9848,0.99,22
+Noise σ=10,XGBoost,0.9818,0.9959,0.9684,0.982,0.9892,0.9934,22
+Noise σ=20,Random Forest,0.9798,0.9959,0.9644,0.9799,0.9865,0.9909,12
+Noise σ=20,XGBoost,0.9778,0.9959,0.9605,0.9779,0.984,0.9906,12
+Noise σ=30,Random Forest,0.9717,0.9838,0.9605,0.972,0.9811,0.9879,0
+Noise σ=30,XGBoost,0.9636,0.9958,0.9328,0.9633,0.9778,0.9874,0

@@ -1,0 +1,4 @@
+Comparison Group,N Samples
+Both correct,488
+Only XGBoost wrong,4
+Both wrong,3

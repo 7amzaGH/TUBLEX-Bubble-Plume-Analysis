@@ -1,0 +1,6 @@
+Experiment,N Features,Features
+E1: Naive Mean Count,1,mean_bubble_count
+E2: Density Only,2,"mean_bubble_count, max_bubble_count"
+E3: E2 + Stability,5,"mean_bubble_count, max_bubble_count, std_bubble_count, temporal_variance, leak_evolution"
+E4: E3 + Geometry,7,"mean_bubble_count, max_bubble_count, std_bubble_count, temporal_variance, leak_evolution, continuity_ratio, mean_vertical_chain"
+E5: Full TUBLEX,11,"mean_bubble_count, max_bubble_count, std_bubble_count, temporal_variance, leak_evolution, continuity_ratio, mean_vertical_chain, prev3_mean_bubble_count, prev3_std_bubble_count, prev3_continuity_ratio, prev3_mean_vertical_chain"

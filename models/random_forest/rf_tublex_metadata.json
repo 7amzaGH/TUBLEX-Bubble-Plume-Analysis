@@ -1,0 +1,19 @@
+{
+  "model_name": "TUBLEX Model",
+  "model_type": "Unknown",
+  "positive_class": 1,
+  "decision_threshold": 0.5,
+  "feature_columns": [
+    "mean_bubble_count",
+    "max_bubble_count",
+    "std_bubble_count",
+    "temporal_variance",
+    "leak_evolution",
+    "continuity_ratio",
+    "mean_vertical_chain",
+    "prev3_mean_bubble_count",
+    "prev3_std_bubble_count",
+    "prev3_continuity_ratio",
+    "prev3_mean_vertical_chain"
+  ]
+}
