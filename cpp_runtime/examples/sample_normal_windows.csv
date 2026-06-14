@@ -1,0 +1,5 @@
+window_id,mean_bubble_count,max_bubble_count,std_bubble_count,continuity_ratio,mean_vertical_chain,temporal_variance,prev3_mean_bubble_count,prev3_std_bubble_count,prev3_continuity_ratio,prev3_mean_vertical_chain,leak_evolution
+0,0.2,1,0.4,0.1,0.2,0.2,0.0,0.0,0.0,0.0,0.2
+1,0.5,2,0.8,0.2,0.4,0.6,0.2,0.4,0.1,0.2,0.3
+2,0.8,2,0.9,0.3,0.6,0.8,0.35,0.6,0.15,0.3,0.45
+3,0.4,1,0.5,0.2,0.3,0.3,0.5,0.7,0.2,0.4,-0.1
