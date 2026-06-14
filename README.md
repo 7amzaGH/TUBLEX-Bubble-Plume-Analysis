@@ -124,6 +124,24 @@ Random Forest / XGBoost classification
 Leak-suspicion probability
 ```
 
+### End-to-End Pipeline Example
+
+The figure below shows a representative TUBLEX inference output for a leak window, from raw underwater imagery to bubble detection, feature extraction, and final Random Forest decision.
+
+<p align="center">
+  <img src="assets/reults.jpg" alt="End-to-end TUBLEX pipeline output for a representative leak window" width="900"/>
+</p>
+
+<p align="center">
+  <sub>
+    End-to-end pipeline output for a representative leak window.
+    (a) Raw input frame.
+    (b) Preprocessed frame with blob detection.
+    (c) Spatially filtered bubbles with DBSCAN and feature extraction.
+    (d) Classification output on the original frame.
+  </sub>
+</p>
+
 ---
 
 ## Dataset
