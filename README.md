@@ -26,7 +26,7 @@ Lightweight temporal bubble-plume monitoring for interpretable underwater gas le
 
 <br/>
 
-<img src="assets/tublex_demo.gif" alt="TUBLEX Bubble Monitoring Demo" width="800"/>
+<img src="assets/tublex_annotated_demo.gif" alt="TUBLEX Bubble Monitoring Demo" width="800"/>
 
 </div>
 
