@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tublex"
+version = "1.0.0"
+description = "Explainable physics-inspired bubble plume analysis for underwater gas leak detection."
+authors = [
+    { name = "Hamza Ghitri" }
+]
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
